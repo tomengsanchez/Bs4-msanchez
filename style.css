@@ -1,0 +1,14 @@
+/*
+Theme Name: Bs4-Msanchez 
+Theme URI: https://github.com/tomengsanchez/Bs4-msanchez
+Author: Michael M Sanchez
+Author URI: https://github.com/tomengsanchez
+GitHub Theme URI: https://github.com/tomengsanchez/Bs4-msanchez
+Text Domain: bs4-msanchez
+@package bs4-msanchez
+*/
+
+
+/** import javascript */
+
+@import url("css/bootstrap.min.css");
