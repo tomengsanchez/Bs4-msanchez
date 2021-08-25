@@ -201,9 +201,9 @@ get_header();
         </div>
     </div>
 </div>
-<div class="socmedia-section">
+<div class="socmedia-section ">
     <div class="container-fluid mycon">
-        <div class="row myrow mx-3">
+        <div class="row myrow mx-5 py-5">
             <div class="col mycol d-flex justify-content-center">
                 <i class="fab fa-facebook-f foot-fb"></i>
             </div>
